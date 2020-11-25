@@ -1,7 +1,7 @@
 # Personal Information:
-Born  08.10.1989, Masaka, Uganda.
+* Born  08.10.1989, Masaka, Uganda.
 
-Married, two children, Caysan (born 22.12.2018) and Kaira (born 24.09.2020), Graz, Austria.
+* Married, two children, Caysan (born 22.12.2018) and Kaira (born 24.09.2020), Graz, Austria.
 
 # Educational Background:
 * 2016 - 2020 PhD (Dr.rer.nat.) in Mathematics, Institute of Analysis and Number Theory, Graz University of Technology ([TU Graz](https://www.tugraz.at/en/home/)), Graz, Austria.
